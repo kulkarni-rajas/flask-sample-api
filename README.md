@@ -1,4 +1,4 @@
-# Whatsapp-Autorepy-Bot
+# Whatsapp-Autoreply-Bot
 An Autoreply API using flask API.
 
 ### Uses
